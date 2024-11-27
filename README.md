@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhitesh</h1>
-<h3 align="center">14x National Level Hackathon Winner. Passionate about AI, Web3 and Blockchain</h3>
+<h3 align="center">14x National Level Hackathons Winner. Passionate about AI, Web3 and Blockchain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n-abhitesh&label=Profile%20views&color=0e75b6&style=flat" alt="n-abhitesh" /> </p>
 
