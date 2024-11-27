@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhitesh</h1>
 <h3 align="center">14x National Level Hackathons Winner. Passionate about AI, Web3 and Blockchain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=n-abhitesh&label=Profile%20views&color=0e75b6&style=flat" alt="n-abhitesh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n-abhitesh" alt="n-abhitesh" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/abhiteshnandip1" target="blank"><img src="https://img.shields.io/twitter/follow/abhiteshnandip1?logo=twitter&style=for-the-badge" alt="abhiteshnandip1" /></a> </p>
 
