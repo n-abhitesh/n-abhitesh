@@ -4,10 +4,6 @@
 
 <p align="left"> <a href="https://twitter.com/abhiteshnandip1" target="blank"><img src="https://img.shields.io/twitter/follow/abhiteshnandip1?logo=twitter&style=for-the-badge" alt="abhiteshnandip1" /></a> </p>
 
-- 📫 How to reach me **n.abhitesh23@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oBJ15oKK57cUiNxd9B78CYSl_SH2D3Y3/view?usp=sharing](https://drive.google.com/file/d/1oBJ15oKK57cUiNxd9B78CYSl_SH2D3Y3/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abhiteshnandip1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhiteshnandip1" height="30" width="40" /></a>
